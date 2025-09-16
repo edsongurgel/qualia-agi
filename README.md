@@ -1,6 +1,6 @@
 # QUALIA - Revolutionary Spatial Intelligence
 
-**Historic Achievement:** 81.7% success rate on ARC-AGI 2 evaluation dataset  
+**Achievement:** 81.7% success rate on ARC-AGI 2 evaluation dataset  
 **Breakthrough:** First human-competitive artificial spatial reasoning system  
 **Innovation:** Adaptive Spatial Intelligence paradigm
 
